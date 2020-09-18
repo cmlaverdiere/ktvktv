@@ -1,5 +1,4 @@
 # ktvktv
-Youtube mix maker app
 
 https://ktvktv.herokuapp.com/
 
